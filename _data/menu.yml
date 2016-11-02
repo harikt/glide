@@ -1,0 +1,45 @@
+'0.3':
+    Getting Started:
+        Introduction: '/glide/0.3/'
+        Changelog: '/glide/0.3/changelog/'
+        Installation: '/glide/0.3/installation/'
+        Simple example: '/glide/0.3/simple-example/'
+    Configuration:
+        The server: '/glide/0.3/config/the-server/'
+        Basic usage: '/glide/0.3/config/basic-usage/'
+        Source & cache: '/glide/0.3/config/source-and-cache/'
+        Base URL: '/glide/0.3/config/base-url/'
+        Image driver: '/glide/0.3/config/image-driver/'
+        Secure images: '/glide/0.3/config/secure-images/'
+        Max image size: '/glide/0.3/config/max-image-size/'
+    Image API:
+        Size: '/glide/0.3/api/size/'
+        Adjustments: '/glide/0.3/api/adjustments/'
+        Effects: '/glide/0.3/api/effects/'
+        Output: '/glide/0.3/api/output/'
+'1.0':
+    Getting Started:
+        Introduction: '/glide/'
+        Changelog: '/glide/1.0/changelog/'
+        Installation: '/glide/1.0/installation/'
+        Simple example: '/glide/1.0/simple-example/'
+    Configuration:
+        Setup: '/glide/1.0/config/setup/'
+        Source & cache: '/glide/1.0/config/source-and-cache/'
+        Security: '/glide/1.0/config/security/'
+        Responses: '/glide/1.0/config/responses/'
+        Image driver: '/glide/1.0/config/image-driver/'
+        Defaults & presets: '/glide/1.0/config/defaults-and-presets/'
+        Advanced usage: '/glide/1.0/config/advanced-usage/'
+    Image API:
+        Quick reference: '/glide/1.0/api/quick-reference/'
+        Orientation: '/glide/1.0/api/orientation/'
+        Crop: '/glide/1.0/api/crop/'
+        Size: '/glide/1.0/api/size/'
+        Pixel density: '/glide/1.0/api/pixel-density/'
+        Adjustments: '/glide/1.0/api/adjustments/'
+        Effects: '/glide/1.0/api/effects/'
+        Watermarks: '/glide/1.0/api/watermarks/'
+        Background: '/glide/1.0/api/background/'
+        Border: '/glide/1.0/api/border/'
+        Encode: '/glide/1.0/api/encode/'
